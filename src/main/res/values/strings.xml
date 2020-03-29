@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea1v2</string>
+    <string name="texto">Bienvenido</string>
+    <string name="boton">Entrar</string>
+    <string name="button">Button</string>
+
+</resources>
